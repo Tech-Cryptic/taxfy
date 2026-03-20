@@ -3,10 +3,10 @@
 pragma solidity ^0.8.20;
 // Specify the version of Solidity to compile with. This contract is written for 0.8.20+.
 
-contract DiscordBadge {
+contract TaskFiBadge {
     // Human-readable name for the badge contract.
     // This is similar to the ERC-721 `name` field.
-    string public name = "Discord Server Badge";
+    string public name = " Badge";
     // Symbol for the badges, like a ticker symbol.
     string public symbol = "BADGE";
     
